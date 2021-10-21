@@ -1,0 +1,1 @@
+while qw_erty 556 54.45 _gt () ; 34 return +*
