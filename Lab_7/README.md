@@ -17,4 +17,4 @@
    ----
 * ### Problem 7.3
 
-     Write a lex program to take input from a file and remove multiple whitespace, tab and newline and write output in a separate file.
+      Write a lex program to take input from a file and remove multiple whitespace, tab and newline and write output in a separate file.
